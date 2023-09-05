@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/AbhiSri11/Plan-with-Abhinav/static/css/main.20baa27e.css",
+    "main.js": "/AbhiSri11/Plan-with-Abhinav/static/js/main.389d673b.js",
+    "static/js/787.d718609c.chunk.js": "/AbhiSri11/Plan-with-Abhinav/static/js/787.d718609c.chunk.js",
+    "index.html": "/AbhiSri11/Plan-with-Abhinav/index.html",
+    "main.20baa27e.css.map": "/AbhiSri11/Plan-with-Abhinav/static/css/main.20baa27e.css.map",
+    "main.389d673b.js.map": "/AbhiSri11/Plan-with-Abhinav/static/js/main.389d673b.js.map",
+    "787.d718609c.chunk.js.map": "/AbhiSri11/Plan-with-Abhinav/static/js/787.d718609c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.20baa27e.css",
+    "static/js/main.389d673b.js"
+  ]
+}
